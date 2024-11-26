@@ -3,6 +3,8 @@
 ## **What it does**
 **RiskRank** is a web-based platform that centralizes and clearly displays all relevant information about a CVE or incident.
 
+![Screenshot](images/screenshot-landing-page.png)
+
 ## Getting Started
 
 Follow these steps to set up and run the application locally.
